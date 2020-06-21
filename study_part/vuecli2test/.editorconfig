@@ -1,0 +1,11 @@
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+# 自动换行
+insert_final_newline = true
+# 这里是处理多于无用的空格
+trim_trailing_whitespace = true
